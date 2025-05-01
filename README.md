@@ -4,9 +4,9 @@
 🛠️ I create websites: e-commerce, events, portfolios, and more!
 
 🔗 **Connect with me:**  
-📸 Instagram: [@ingensumit](https://instagram.com/ingensumit)  
+📸 Instagram:(https://instagram.com/ingensumit)  
 📧 Gmail: ingensumit@gmail.com  
 📍 Location: Basti,Uttar Pardesh India
 
-🌐 Portfolio: [your-website.com]  
+🌐 Portfolio: https://github.com/ingensumit  
 📂 Explore my projects below ⬇️
