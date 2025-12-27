@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Sumit (aka @ingensumit)
 
-🚀 Web Developer | WordPress Specialist | Creative Mind  
+🚀 Web Developer |  Creative Mind  
 🛠️ I create websites: e-commerce, events, portfolios, and more!
 
 🔗 **Connect with me:**  
